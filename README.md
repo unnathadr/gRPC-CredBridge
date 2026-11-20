@@ -1,4 +1,4 @@
-gRPC Playground
+gRPC CredBridge
 ======================
 
 The goal of this app is to connect to a server, exchange information using the gRPC protocol and lastly retrieve some mocked credentials issued by the server.
